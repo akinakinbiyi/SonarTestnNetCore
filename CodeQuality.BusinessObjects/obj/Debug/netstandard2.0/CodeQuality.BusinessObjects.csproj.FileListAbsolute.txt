@@ -1,0 +1,16 @@
+C:\Code\AzureDevOps\WebApplication\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.deps.json
+C:\Code\AzureDevOps\WebApplication\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.dll
+C:\Code\AzureDevOps\WebApplication\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.pdb
+C:\Code\AzureDevOps\WebApplication\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Code\AzureDevOps\WebApplication\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.AssemblyInfoInputs.cache
+C:\Code\AzureDevOps\WebApplication\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.AssemblyInfo.cs
+C:\Code\AzureDevOps\WebApplication\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.dll
+C:\Code\AzureDevOps\WebApplication\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.pdb
+C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.deps.json
+C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.dll
+C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.pdb
+C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.csprojAssemblyReference.cache
+C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.AssemblyInfo.cs
+C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.dll
+C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.pdb
