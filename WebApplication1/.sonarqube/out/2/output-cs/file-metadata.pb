@@ -1,0 +1,10 @@
+ö
+éC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.csutf-8ö
+éC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.csutf-8ú
+êC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.csutf-8±
+•C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.csutf-8£
+óC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.csutf-8µ
+©C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8°
+ïC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.csutf-8ü
+ìC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.csutf-8ß
+õC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.csutf-8

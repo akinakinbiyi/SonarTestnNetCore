@@ -12089,23 +12089,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\akina\\.nuget\\packages\\": {},
+    "C:\\Users\\eakinoluyemi.EZCORP\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\akina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\eakinoluyemi.EZCORP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\akina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eakinoluyemi.EZCORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12118,8 +12118,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj"
+            "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj": {
+              "projectPath": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj"
             }
           }
         }

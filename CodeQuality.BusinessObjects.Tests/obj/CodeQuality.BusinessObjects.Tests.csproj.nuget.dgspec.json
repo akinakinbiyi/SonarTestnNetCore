@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\CodeQuality.BusinessObjects.Tests.csproj": {}
+    "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\CodeQuality.BusinessObjects.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\CodeQuality.BusinessObjects.Tests.csproj": {
+    "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\CodeQuality.BusinessObjects.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\CodeQuality.BusinessObjects.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\CodeQuality.BusinessObjects.Tests.csproj",
         "projectName": "CodeQuality.BusinessObjects.Tests",
-        "projectPath": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\CodeQuality.BusinessObjects.Tests.csproj",
-        "packagesPath": "C:\\Users\\akina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\obj\\",
+        "projectPath": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\CodeQuality.BusinessObjects.Tests.csproj",
+        "packagesPath": "C:\\Users\\eakinoluyemi.EZCORP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\akina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eakinoluyemi.EZCORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj"
+              "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj"
               }
             }
           }
@@ -78,20 +78,20 @@
         }
       }
     },
-    "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj": {
+    "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj",
         "projectName": "CodeQuality.BusinessObjects",
-        "projectPath": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\akina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akina\\source\\repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\obj\\",
+        "projectPath": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\CodeQuality.BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\eakinoluyemi.EZCORP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eakinoluyemi.EZCORP\\Source\\Repos\\akinakinbiyi\\SonarTestnNetCore\\CodeQuality.BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\akina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eakinoluyemi.EZCORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,0 +1,11 @@
+
+vC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\BusinessObject.csutf-8y
+pC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\Customer.csutf-8z
+qC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\Customer2.csutf-8x
+oC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\Manager.csutf-8~
+uC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\ObjectFactory.csutf-8w
+nC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\Person.csutf-8{
+rC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\UKCustomer.csutf-8{
+rC:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\USCustomer.csutf-8j
+_C:\Users\eakinoluyemi.EZCORP\AppData\Local\Temp\.NETStandard,Version=v2.0.AssemblyAttributes.csutf-8µ
+©C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.AssemblyInfo.csutf-8

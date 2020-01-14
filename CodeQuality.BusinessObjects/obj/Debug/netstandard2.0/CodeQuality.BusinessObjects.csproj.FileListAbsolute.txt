@@ -14,3 +14,11 @@ C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessO
 C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.AssemblyInfo.cs
 C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.dll
 C:\Users\akina\source\repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.pdb
+C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.deps.json
+C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.dll
+C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\bin\Debug\netstandard2.0\CodeQuality.BusinessObjects.pdb
+C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.csprojAssemblyReference.cache
+C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.AssemblyInfo.cs
+C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.dll
+C:\Users\eakinoluyemi.EZCORP\Source\Repos\akinakinbiyi\SonarTestnNetCore\CodeQuality.BusinessObjects\obj\Debug\netstandard2.0\CodeQuality.BusinessObjects.pdb
